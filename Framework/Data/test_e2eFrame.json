@@ -1,0 +1,24 @@
+{
+  "data" : [
+    {
+      "userEmail" : "rahulshettyacademy",
+      "userPassword" : "Learning@830$3mK2",
+      "productName" : "Blackberry"
+
+    },
+
+    {
+      "userEmail" : "rahulshettyacademy",
+      "userPassword" : "Learning@830$3mK2",
+      "productName" : "asusu"
+
+    },
+    {
+      "userEmail" : "rahulshettyacademy",
+      "userPassword" : "Learning@830$3mK2",
+      "productName" : "Nokia Edge"
+
+    }
+  ]
+
+}
