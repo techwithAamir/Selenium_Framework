@@ -1,9 +1,3 @@
-
-# pytest -m smoke   // Tagging
-#pytest -n 10 //pytest-xdist plugin you need to run in parallel
-
-# pytest -n 2 -m smoke --browser_name firefox --html=reports/report.html
-
 import time
 import json
 import pytest
