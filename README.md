@@ -366,13 +366,6 @@ It motivates me to keep building and sharing more automation projects.
 
 ---
 
-# 📬 Connect with Me
-
-**LinkedIn:** https://linkedin.com/in/YOUR-LINK
-
-**GitHub:** https://github.com/YOUR-USERNAME
-
----
 
 ## 📄 License
 
