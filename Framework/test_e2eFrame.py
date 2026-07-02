@@ -7,7 +7,7 @@ import pytest
 from pageObjects.login import LoginPage
 from pageObjects.shop import ShopPage
 
-test_data_path = 'C:\\Users\\MD AAMIR\\.vscode\\Testing\\Framework\\Data\\test_e2eFrame.json'
+test_data_path = #Enter the path to your JSON file here
 with open( test_data_path ) as f:
     test_data = json.load( f )
     test_list = test_data["data"]
